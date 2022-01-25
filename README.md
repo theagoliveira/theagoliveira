@@ -17,7 +17,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 ##### Frameworks
 
 <details>
-  <summary>Spring Framework <em>(most recent framework I've learned)</em></summary>
+  <summary>Spring Framework <em>(<strong>most recent</strong> framework I've learned)</em></summary>
   
 - Course: [John Thompson - Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
   - [spring5-mvc-rest](https://github.com/theagoliveira/spring5-mvc-rest)
@@ -39,7 +39,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 </details>
 
 <details>
-  <summary>Ruby on Rails <em>(framework I'm currently working with)</em></summary>
+  <summary>Ruby on Rails <em>(framework I'm <strong>currently working</strong> with)</em></summary>
   
 - Book: [Michael Hartl - Ruby on Rails Tutorial](https://www.railstutorial.org)
   - [hello-app](https://github.com/theagoliveira/hello-app)
@@ -66,7 +66,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 ##### Programming Languages
 
 <details>
-  <summary>Java <em>(most recent programming language I've learned)</em></summary>
+  <summary>Java <em>(<strong>most recent</strong> programming language I've learned)</em></summary>
 
 - Book: Herbert Schildt - Java: A Beginner's Guide — [java-beginners-guide](https://github.com/theagoliveira/java-beginners-guide)
 - Book: Bryson Payne - Learn Java the Easy Way — [learn-java-the-easy-way](https://github.com/theagoliveira/learn-java-the-easy-way)
@@ -74,7 +74,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 </details>
 
 <details>
-  <summary>Ruby <em>(programming language I'm currently working with)</em></summary>
+  <summary>Ruby <em>(programming language I'm <strong>currently working</strong> with)</em></summary>
   
 - [Advent of Code 2021](https://adventofcode.com/2021) _(most of my answers were written in Ruby)_ — [advent-of-code-2021](https://github.com/theagoliveira/advent-of-code-2021)
 - Exercises: Exercism - Ruby track — [exercism-ruby](https://github.com/theagoliveira/exercism-ruby)
