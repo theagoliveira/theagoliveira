@@ -44,7 +44,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 - Book: [Michael Hartl - Ruby on Rails Tutorial](https://www.railstutorial.org)
   - [hello-app](https://github.com/theagoliveira/hello-app)
   - [toy-app](https://github.com/theagoliveira/toy-app)
-  - [sample_app](https://github.com/theagoliveira/sample_app) _(very recent)_
+  - [sample_app](https://github.com/theagoliveira/sample_app) _(work in progress)_
 - Tutorial: [Andy Leverenz - Build your first Rails app](https://youtu.be/wbZ6yrVxScM) — [rails-demo-blog](https://github.com/theagoliveira/rails-demo-blog)
 </details>
 
