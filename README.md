@@ -19,7 +19,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 <details>
   <summary>Spring Framework <em>(<strong>most recent</strong> framework I've learned)</em></summary>
   
-- Course: [John Thompson - Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/)
+- Course: [John Thompson - Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/) ([Certificate](https://www.udemy.com/certificate/UC-61b0733f-ba1f-4ecd-b59a-bee430fb5461/))
   - [spring5-mvc-rest](https://github.com/theagoliveira/spring5-mvc-rest)
   - [spring5-webflux-rest](https://github.com/theagoliveira/spring5-webflux-rest)
   - [spring5-restdocs](https://github.com/theagoliveira/spring5-restdocs)
