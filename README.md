@@ -36,6 +36,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 - Tutorial: [Amigoscode - Spring Boot Tutorial](https://youtu.be/9SGDpanrc8U) — [amigoscode-spring-demo](https://github.com/theagoliveira/amigoscode-spring-demo)
 - Tutorial: [AlgaWorks - Unit Testing Controllers with Spring MockMVC 🇧🇷](https://youtu.be/ngbKmhXDP4A) — [algaworks-testes-mockmvc](https://github.com/theagoliveira/algaworks-testes-mockmvc)
 - Tutorial: [AlgaWorks - How to Create a REST API with Spring Boot 🇧🇷](https://youtu.be/9GWK9A79tEc) — [algaworks-algacrm-api](https://github.com/theagoliveira/algaworks-algacrm-api)
+- Challenge: Comics API — [comics-api](https://github.com/theagoliveira/comics-api) _(very recent)_
 </details>
 
 <details>
