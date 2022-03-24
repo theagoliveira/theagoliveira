@@ -40,7 +40,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 </details>
 
 <details>
-  <summary>Ruby on Rails <em>(framework I'm <strong>currently working</strong> with)</em></summary>
+  <summary>Ruby on Rails</summary>
   
 - Book: [Michael Hartl - Ruby on Rails Tutorial](https://www.railstutorial.org)
   - [hello-app](https://github.com/theagoliveira/hello-app)
@@ -75,7 +75,7 @@ Here's a list of my repos categorized by subject. Most of them were created to l
 </details>
 
 <details>
-  <summary>Ruby <em>(programming language I'm <strong>currently working</strong> with)</em></summary>
+  <summary>Ruby</summary>
   
 - [Advent of Code 2021](https://adventofcode.com/2021) _(most of my answers were written in Ruby)_ — [advent-of-code-2021](https://github.com/theagoliveira/advent-of-code-2021)
 - Exercises: Exercism - Ruby track — [exercism-ruby](https://github.com/theagoliveira/exercism-ruby)
